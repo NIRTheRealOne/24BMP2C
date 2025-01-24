@@ -1,5 +1,5 @@
 # 24BMP2C
-24BMP2C - Enzo Niro
+24BMP2C - Enzo Niro - 2018
 
 Convert 24 bit Bitmap to C array
 
